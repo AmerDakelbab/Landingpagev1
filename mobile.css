@@ -1,0 +1,199 @@
+@media only screen and (max-width: 1000px) {
+    body {
+        margin: 0;
+        padding: 0;
+        }
+     .top-page {
+        flex-direction: column;
+     }   
+
+    .background-image {
+        width: 480px;
+    }
+    img.bigimage-top{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .tryitfree-button {
+        width: 120px;
+        height: 30px;
+        font-size: 11px;
+    }
+    .logo-button-part {
+        top: 10px;
+        left: 15px;
+        right: 10px;
+    }
+    .logo {
+        height: 20px;
+        width: 130px;
+    }
+    .middle-page{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .text-part {
+        align-items: center;
+        justify-content: center;
+        top: 150px;
+        left: 20px;
+    }
+    .title-top {   
+        font-size: 30px;
+        width: 400px;
+        text-align: center;
+    }
+    .descreption-top {
+        width: 360px;
+        font-size: 18px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    .text-image-part {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+        .first-group {
+        flex-direction: column-reverse;
+        justify-content: start;
+        width: 400px;
+        margin-top: 40px;
+    }
+    .text-part-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 25px;
+        margin-left: 25px;
+
+    }
+    .title-middle { 
+        font-size: 20px;
+        margin-top: 75px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .descreption-middle {
+        text-align: center;
+        font-size: 15px;
+        width: 300px;
+        text-align: center;
+        margin: 0px;
+    }
+    .group-one {
+        width: 300px;
+        height: 250px;
+        margin-top: 50px;
+        margin-bottom: 0px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .second-group {
+        flex-direction: column;
+        justify-content: start;
+        width: 400px;
+        margin-left: 35px;
+        margin-top: 35px;
+    }
+    .group-two {
+        width: 300px;
+        height: 250px;
+        margin-top: 50px;
+        margin-bottom: 0px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .text-part-middle-second {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 25px;
+        margin-left: 25px;
+    }
+    .descreption-middle-third {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 25px;
+        margin-left: 25px;
+        width: 315px;
+        text-align: center;
+    }
+    .third-group {
+        flex-direction: column-reverse;
+        justify-content: start;
+        width: 400px;
+        margin-left: 35px;
+        margin-top: 35px;
+    }
+    .last-box {
+        width: 375px;
+        margin-left: 40px;
+        height: 200px;
+        margin-top: 190px;
+
+    }
+    .last-box-text {
+        font-size: 20px;
+
+
+    }
+    .last-box-button {
+        width: 250px;
+        font-size: 13px;
+        height: 40px;
+    }
+    .end {
+        flex-direction: column;
+        height: 750px;
+        margin-top: 50px;
+    }
+    .end-all {
+        flex-direction: column;
+    }
+    .end-texts-first {
+        margin-top: 135px;
+        margin-left: 10px;
+    }
+    .end-image {
+        width: 125px;
+    }
+    .location-text {
+        width: 184px;
+    }
+    .end-texts-middle {
+        flex-direction: column;
+        margin-top: 35px;
+        margin-left: 10px;
+    }
+    .second-column {
+        margin-left: 0px;
+    }
+    .logos-part {
+        flex-direction: row;
+        justify-content: center;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 35px;
+
+    }
+    .end-texts-last {
+        margin-left: 0;
+        margin-top: 75px;
+    }
+    .st {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .copyright {
+        font-size: 10px;
+    }
+}
